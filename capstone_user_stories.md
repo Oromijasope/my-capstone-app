@@ -40,3 +40,10 @@
 * **Dark Mode:** As a user, I want to enable dark mode in the settings screen so that I can reduce eye strain during nighttime usage.
 * **Notification Toggles:** As a user, I want to adjust notification preferences so that I only receive alerts relevant to me.
 * **Account Security:** As a user, I want to update my email and password on the settings screen so that I can keep my account secure.
+
+---
+## Exercise 10: Notifications
+* **Daily Reminders:** As a user, I want to receive a daily reminder notification so that I don’t forget to complete my tasks.
+* **Feature Updates:** As a user, I want to receive notifications about new features so that I can explore and benefit from them.
+* **Alert Control:** As a user, I want to turn off promotional notifications so that I can focus on essential updates only.
+* **Targeted Info:** As an admin, I want to send notifications to specific user groups so that I can target them with relevant information.
