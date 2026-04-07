@@ -28,3 +28,15 @@
 * **Real-time Updates:** As a user, I want to view real-time updates (like weather or news) on the home screen so that I can plan my day effectively.
 * **Live Conversion:** As a user, I want to see live currency conversion rates or localized prices so that I can make informed financial decisions.
 * **Location Services:** As a user, I want to see nearby locations on a map so that I can choose a destination conveniently.
+
+---
+## Exercise 8: Settings Menu
+* **Global Access:** As a user, I want to access a settings menu from any screen so that I can adjust preferences at my convenience.
+* **Logical Organization:** As a user, I want to see categorized sections in the settings menu so that I can quickly find the options I need.
+* **Admin Control:** As an admin, I want to enable or disable certain settings for users so that I can maintain app security and compliance.
+
+---
+## Exercise 9: Settings Screen
+* **Dark Mode:** As a user, I want to enable dark mode in the settings screen so that I can reduce eye strain during nighttime usage.
+* **Notification Toggles:** As a user, I want to adjust notification preferences so that I only receive alerts relevant to me.
+* **Account Security:** As a user, I want to update my email and password on the settings screen so that I can keep my account secure.
