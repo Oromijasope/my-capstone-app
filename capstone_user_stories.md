@@ -16,3 +16,9 @@
 * **Detailed Info:** As a user, I want to see in-depth information about a selected item so that I can make informed decisions.
 * **Actions:** As a user, I want to perform actions like saving or sharing an item from the detail screen so that I can keep track of interesting content.
 * **Related Items:** As a user, I want to view related items on the detail screen so that I can explore more options within the app.
+
+---
+## Exercise 6: Persistent Data
+* **Login Persistence:** As a user, I want my login state to persist across sessions so that I don't need to re-enter my details every time I open the app.
+* **Save Preferences:** As a user, I want to save my preferences, such as dark mode, so that the app remembers my settings between uses.
+* **Activity Logs:** As an admin, I want user activity logs to persist so that I can track and analyze usage trends over time.
