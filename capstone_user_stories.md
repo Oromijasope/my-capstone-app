@@ -22,3 +22,9 @@
 * **Login Persistence:** As a user, I want my login state to persist across sessions so that I don't need to re-enter my details every time I open the app.
 * **Save Preferences:** As a user, I want to save my preferences, such as dark mode, so that the app remembers my settings between uses.
 * **Activity Logs:** As an admin, I want user activity logs to persist so that I can track and analyze usage trends over time.
+
+---
+## Exercise 7: External API Integration
+* **Real-time Updates:** As a user, I want to view real-time updates (like weather or news) on the home screen so that I can plan my day effectively.
+* **Live Conversion:** As a user, I want to see live currency conversion rates or localized prices so that I can make informed financial decisions.
+* **Location Services:** As a user, I want to see nearby locations on a map so that I can choose a destination conveniently.
