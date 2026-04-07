@@ -10,3 +10,9 @@
 * **Data Overview:** As a user, I want to view an overview of my data on the home screen so that I can monitor my progress at a glance.
 * **Onboarding:** As a new user, I want to see a quick introductory guide on the home screen so that I can learn how to use the app.
 * **Efficient Navigation:** As a user, I want to access my most-used features from the home screen so that I can navigate the app efficiently.
+
+---
+## Exercise 5: Detail Screen
+* **Detailed Info:** As a user, I want to see in-depth information about a selected item so that I can make informed decisions.
+* **Actions:** As a user, I want to perform actions like saving or sharing an item from the detail screen so that I can keep track of interesting content.
+* **Related Items:** As a user, I want to view related items on the detail screen so that I can explore more options within the app.
